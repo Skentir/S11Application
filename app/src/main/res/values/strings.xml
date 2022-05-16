@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S11Application</string>
+    <string name="button_one_name">Login</string>
+    <string name="button_two_name">Register</string>
+</resources>
